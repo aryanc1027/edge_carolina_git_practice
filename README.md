@@ -3,11 +3,6 @@
 ## Overview
 This guide explains how to set up branch protection rules for the main branch to prevent students from pushing directly to main.
 
-## GitHub Branch Protection Rules
-
-
-## Student Workflow with Protection
-
 ### 1. Student Creates Branch
 ```bash
 git checkout -b student/john-doe-practice
