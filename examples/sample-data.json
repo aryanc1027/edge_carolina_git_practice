@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "course": "Git Fundamentals"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "course": "Advanced Git"
+    },
+    {
+      "id": 3,
+      "name": "Carol Davis",
+      "email": "carol@example.com",
+      "course": "Git Fundamentals"
+    }
+  ],
+  "courses": [
+    {
+      "name": "Git Fundamentals",
+      "duration": "2 weeks",
+      "difficulty": "beginner"
+    },
+    {
+      "name": "Advanced Git",
+      "duration": "3 weeks",
+      "difficulty": "intermediate"
+    }
+  ]
+}
