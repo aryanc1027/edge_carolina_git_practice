@@ -23,7 +23,7 @@ A Merge Request (MR) or Pull Request (PR) is a way to propose changes to a repos
 
 ### 2. Prepare Your Branch
 ```bash
-# Make sure you're on your student branch
+
 git checkout student/your-name-mr-practice
 
 # Create a feature branch from your student branch
